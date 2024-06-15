@@ -1,0 +1,4 @@
+cohere
+pyvis
+requests
+numpy
